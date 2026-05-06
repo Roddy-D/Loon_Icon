@@ -137,6 +137,12 @@
         {
       "name": "iCloud",
       "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/icons/iCloud.png"
+    },        {
+      "name": "BWH",
+      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/icons/BWH.jpg"
+    },        {
+      "name": "RFC",
+      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/icons/RFC.jpg"
     },
     {
       "name": "epic",
